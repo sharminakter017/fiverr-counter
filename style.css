@@ -1,0 +1,10 @@
+#fiverr_form{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.counter h1{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 900;
+}
